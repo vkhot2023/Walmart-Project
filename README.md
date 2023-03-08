@@ -48,13 +48,13 @@ STATE DASHBOARD:
 
 <img src="https://user-images.githubusercontent.com/115641570/223684884-eec34ee0-cc20-46aa-8169-d1743f0ace36.PNG" height="500" width="1000" />
 
-For detail Project:
+For detail Project:https://github.com/vkhot2023/Walmart-Project/blob/main/UPLOAD%20walmart.pbix
 
 ## Data Analysis and Insights
 
-## Microsoft PowerBI
+## Microsoft PowerBI Project
 
-Link:
+Link:https://github.com/vkhot2023/Walmart-Project/blob/main/UPLOAD%20walmart.pbix
 
 ## Project completion
 
