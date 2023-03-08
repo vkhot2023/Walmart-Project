@@ -3,7 +3,7 @@
 Walmart Inc is an American multinational retail corporation that operates a chain of hypermarkets , discount department stores, and grocery stores in the United States, headquartered in Bentonville, Arkansas. Client wish to analyse sales data in USA to plan operations for next year for better customer service and optimize firm operation structure
 
 # Dataset
-Link:
+Link:https://github.com/vkhot2023/Walmart-Project/blob/main/walmart%20%20Superstore.xlsx
 
 # Development Process
 In this project, we are carrying following steps:
@@ -52,3 +52,10 @@ For detail Project:
 
 ## Data Analysis and Insights
 
+## Microsoft PowerBI
+
+Link:
+
+## Project completion
+
+project successfully completed by VISHAL JAGANNATH KHOT
