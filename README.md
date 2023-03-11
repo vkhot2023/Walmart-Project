@@ -72,6 +72,7 @@ We perform Analysis to obtain following results:
 ## Microsoft PowerBI Project and PPT Document
 
 Link:https://github.com/vkhot2023/Walmart-Project/blob/main/UPLOAD%20walmart.pbix
+PPT:https://github.com/vkhot2023/Walmart-Project/blob/main/walmart%20Analysis.pdf
 
 ## Project completion
 
