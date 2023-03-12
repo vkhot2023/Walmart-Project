@@ -1,38 +1,37 @@
 # Walmart-Project
 
-Walmart Inc is an American multinational retail corporation that operates a chain of hypermarkets , discount department stores, and grocery stores in the United States, headquartered in Bentonville, Arkansas. Client wish to analyse sales data in USA to plan operations for next year for better customer service and optimize firm operation structure
+Walmart Inc is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores in the United States, headquartered in Bentonville, Arkansas. The client aspires to analyze sales data in the USA to plan operations for next year for better customer service and optimize the firm operation structure.
 
-# Dataset
-Link:https://github.com/vkhot2023/Walmart-Project/blob/main/walmart%20%20Superstore.xlsx
+## Dataset
+Raw Dataset:https://github.com/vkhot2023/Walmart-Project/blob/main/walmart%20%20Superstore.xlsx
 
-# Development Process
-In this project, we are carrying following steps:
+## Development Process
+We are functioning following 4 steps to complete this project:
 
-1 Project Statement
+* Project statement
+* Data Exploration
+* Dashboard Development
+* Data Analysis
 
-2 Data Exploration and Processing
+### Project statement
 
-3 DashBoard and Model Generation
+In this process, we are defining the Project Problem statement and what will consider successful completion of the project?
 
-4 Data Analysis and Insights
+Walmart Corporation expanding its operation in the next fiscal year. A corporation inclines to improve service to achieve aspired growth in American Market to retain its first position. Corporation aspires to analyze data from the last 4 years to complete operations. In this project, We are analyzing their data to provide the best possible solution for thier growth Story. 
 
-## Project statement
+### Data Exploration
 
-Walmart Copporation explanding their operation in next fiscal year. Corporation has inclination to improve service to achieve aspired growth in American Market to retain their first position. Corporation aspire to analyse data from last 4 years to succeessfully complete operation. In this project, We are analysing their data to provide best possible solution thier growth Story 
+We have Excel Workbook with 3 sheeets namely as Orders, Returns, People.
 
-## Data Exploration and Processing
+Orders: 10000 records   Data Points:Row ID, Order ID, Order Date, Ship Date, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit.
 
-We have Excel Workbook with 3 sheeets namely as Orders, Returns, People
+Return: 286 records     Data Points:returned, order ID.
 
-Orders: 10000 records   Data Points:Row ID, Order ID, Order Date, Ship Date, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit
+person: 4 records       Data Points:Person, Region.
 
-Return: 286 records     Data Points:returned, order ID
+### DashBoard Development
 
-person: 4 records       Data Points:Person, Region
-
-## DashBoard and Model Generation
-
-Data parsed in Microsoft PowerBI for Model development. Model developes in such way that each data point has data consistency and relationship with respect to selected data ponit to provide User Required data insights. we developed User friendly Dynamic Dashboard using Microsoft PowerBI tool to check various parameters.
+Data parsed in Microsoft PowerBI for Model development. The model develops in such a way that each data point has data consistency,and data relationship remains intact. We developed User-friendly Dynamic Dashboard using the Microsoft PowerBI tool to check various parameters.
 
 SUMMARY DASHBOARD:
 
@@ -69,11 +68,12 @@ We perform Analysis to obtain following results:
 <img src="https://user-images.githubusercontent.com/115641570/224483612-fb1bbd54-5c7f-4df6-b072-ac1ac9547fd1.PNG" height="400" width="800" />
 <img src="https://user-images.githubusercontent.com/115641570/224483615-2123d80c-44a9-4c60-b58f-4b9b91e9f67d.PNG" height="400" width="800" />
 
-## Microsoft PowerBI Project and PPT Document
+## Microsoft PowerBI Project and PDF Document
 
-Link:https://github.com/vkhot2023/Walmart-Project/blob/main/UPLOAD%20walmart.pbix
-PPT:https://github.com/vkhot2023/Walmart-Project/blob/main/walmart%20Analysis.pdf
+Microsoft PowerBI Project Link:https://github.com/vkhot2023/Walmart-Project/blob/main/UPLOAD%20walmart.pbix
+
+PDF Document:https://github.com/vkhot2023/Walmart-Project/blob/main/walmart%20Analysis.pdf
 
 ## Project completion
 
-project successfully completed by VISHAL JAGANNATH KHOT
+Project successfully completed by VISHAL JAGANNATH KHOT
